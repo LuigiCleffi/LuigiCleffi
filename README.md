@@ -1,3 +1,4 @@
+#About me:technologist_medium_skin_tone: (Emojipedia) 
 - 👋 Hi, I’m @LuigiCleffi
 - 👀 I’m interested in Python and Django
 - 🌱 I’m currently learning Javascript and React
