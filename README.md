@@ -1,13 +1,10 @@
 <h1> About me 🧑🏽‍💻:</h1>
-<hr>
 <br>
-- 👋 Hi, I’m @LuigiCleffi
-- 👀 I’m interested in Python and Django
-- 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on Web Services
-- 📫 If you want to reach me out, send me an Email: luigicleffi674@gmail.com, I'll be glad to talk to you 
-
-<!---
-LuigiCleffi/LuigiCleffi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<ul>
+  <li>👋 Hi, I’m @LuigiCleffi</li>
+  <li>👀 I’m interested in Python and Django</li>
+  <li>🌱 I’m currently learning Javascript and React</li>
+  <li>💞️ I’m looking to collaborate on Web Services</li>
+  <li>📫 If you want to reach me out, send me an Email:     <a href= "mailto:luigicleffi674@gmail.com ? {subject} = {subject}" > Click here to send me an email</a>
+    , I'll be glad that you have contacted me </li>
+</ul>
