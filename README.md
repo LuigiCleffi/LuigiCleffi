@@ -5,9 +5,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luigi_cff/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-cleffi/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://bit.ly/31dEVvh)
-
+<br/>
 ![Luigi GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiCleffi&show_icons=true&theme=dracula)
 </div>
+
+
 
 ## Tecnologias no meu dia a dia:
 <div style="display: inline_block" align="center">
@@ -22,6 +24,10 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
+<section align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiCleffi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</section>
 
 ## Estudando: 🧑‍💻
 - C#
