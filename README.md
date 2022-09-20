@@ -9,7 +9,7 @@
 
 ![Luigi GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiCleffi&show_icons=true&theme=dracula) 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+Experienced;Tech+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+Experienced;Tech+Lover+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 </div>
