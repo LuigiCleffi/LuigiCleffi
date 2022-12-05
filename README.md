@@ -31,10 +31,6 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiCleffi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 ## Estudando: 🧑‍💻
 <img alt="React" src="https://img.shields.io/badge/React-666666?style=for-the-badge&logo=react&logoColor=blue"><img alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
