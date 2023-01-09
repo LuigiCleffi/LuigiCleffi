@@ -26,10 +26,12 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-666666?style=for-the-badge&logo=react&logoColor=blue">    
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     
     
 </div>  
+
 
  
  ![Snake animation](https://github.com/LuigiCleffi/LuigiCleffi/blob/output/github-contribution-grid-snake.svg)
