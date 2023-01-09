@@ -29,7 +29,7 @@
     
     <br/>
     
-    <img alt="Heroku" src="[https://img.shields.io/badge/React-666666?style=for-the-badge&logo=react&logoColor=blue](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)">)
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     
     
 </div>  
