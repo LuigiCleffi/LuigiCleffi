@@ -38,7 +38,7 @@
  ![Snake animation](https://github.com/LuigiCleffi/LuigiCleffi/blob/output/github-contribution-grid-snake.svg)
  
 
-## Estudando: 🧑‍💻
+## Better practice: 🧑‍💻
 <img alt="React" src="https://img.shields.io/badge/React-666666?style=for-the-badge&logo=react&logoColor=blue"><img alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 <p>Get in touch from <a href="mailto:lugicleffi@hotmail.com"><b>E-mail 📩</b></a> as well!</p>
