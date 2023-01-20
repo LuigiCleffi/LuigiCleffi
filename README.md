@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luigi_cff/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigicleffi/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://bit.ly/31dEVvh)
-[![ME](https://shields.io/badge/AboutMe-808080?style=for-the-badge&logo=web&logoColor=white)](https://63caca7ec28c1a75fd7ed0ca--beautiful-nasturtium-c12fd3.netlify.app)
+[![ME](https://shields.io/badge/Portifolio-808080?style=for-the-badge&logo=web&logoColor=white)](https://63caca7ec28c1a75fd7ed0ca--beautiful-nasturtium-c12fd3.netlify.app)
 
 <br/>
 
