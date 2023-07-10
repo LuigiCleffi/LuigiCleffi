@@ -51,4 +51,4 @@
 </div>
 
 
-<p>Get in touch from <a href="mailto:lugicleffi@hotmail.com"><b>E-mail 📩</b></a> as well!</p>
+<p>Send me an <a href="mailto:lugicleffi@hotmail.com"><b>E-mail 📩</b></a></p>
