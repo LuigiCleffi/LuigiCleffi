@@ -10,9 +10,7 @@
 <br/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FF71D&center=true&multiline=true&width=435&lines=Full+Stack+developer;From+localhost+to+cloud+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FF71D&multiline=true&width=435&lines=Full+Stack+developer;From+localhost+to+cloud+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ## Technologies working on
 
