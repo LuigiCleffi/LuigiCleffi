@@ -24,18 +24,29 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-666666?style=for-the-badge&logo=react&logoColor=blue">
     <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-232020?style=for-the-badge&logo=java&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/Amazon_AWS-FF7315?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF7315?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img alt="AWS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img alt="VITE" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+    <img alt="WEB PACK" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" />
+    <img alt="Socket IO" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Nest.JS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 
 </div>  
 
  ![Snake animation](https://github.com/LuigiCleffi/LuigiCleffi/blob/output/github-contribution-grid-snake.svg)
 
-## Better practice: 🧑‍💻
+## Main Stack: 🧑‍💻
 
-<img alt="React" src="https://img.shields.io/badge/React-666666?style=for-the-badge&logo=react&logoColor=blue"><img alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-666666?style=for-the-badge&logo=react&logoColor=blue" />
+<img alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Express.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img alt="Nest.JS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+
 
 <p>Get in touch from <a href="mailto:lugicleffi@hotmail.com"><b>E-mail 📩</b></a> as well!</p>
