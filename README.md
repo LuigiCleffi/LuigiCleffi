@@ -8,8 +8,7 @@
 [![ME](https://shields.io/badge/Portifolio-808080?style=for-the-badge&logo=web&logoColor=white)](https://63caca7ec28c1a75fd7ed0ca--beautiful-nasturtium-c12fd3.netlify.app)
 
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Developer+Experienced;Tech+Lover+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FF71D&center=true&multiline=true&width=435&lines=Full+Stack+developer;From+localhost+to+cloud+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
