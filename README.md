@@ -44,7 +44,6 @@
 <img alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Express.JS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img alt="Nest.JS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 
 </div>
 
