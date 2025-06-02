@@ -38,10 +38,10 @@
 ## 🎸 Hobbies
 
 - Playing the guitar  
-  <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="40" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB5czM5aGZtdXV0eDZoc3IxOTRucTE3NzNpaDc0eW9mdzA3Mzl6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Uelvm15VSxfYc36QKU/giphy.gif" width="40" />
 
 - Practicing Muay Thai  
-  <img src="https://media.giphy.com/media/iKQDjG1P6Bv9e/giphy.gif" width="40" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBmMzdpdWt3anhxNnJtb25lN3VhOXVpdXZtb3RpeW92bTFsdXl6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNLoaEpRzl93vh0sgM/giphy.gif" width="40" />
 
 ---
 
